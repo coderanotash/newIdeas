@@ -1,0 +1,20 @@
+{
+  "name": "VSCodeGit",
+  "description": "Git start",
+  "main": "app.js",
+  "authors": [
+    "an"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
